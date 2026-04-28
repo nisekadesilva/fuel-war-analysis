@@ -1,5 +1,4 @@
-# <img 
-  src="https://cdn.jsdelivr.net/npm/lucide-static/icons/fuel.svg" width="20" style="filter: invert(55%) sepia(98%) saturate(600%) hue-rotate(350deg) brightness(95%)contrast(95%);"/> Fuel Price vs War Impact Analysis (2020–2026)
+# <img src="https://cdn.jsdelivr.net/npm/lucide-static/icons/fuel.svg" width="20" style="filter: invert(55%) sepia(98%) saturate(600%) hue-rotate(350deg) brightness(95%)contrast(95%);"/> Fuel Price vs War Impact Analysis (2020–2026)
 
 ## <img src="https://cdn.jsdelivr.net/npm/lucide-static/icons/fuel.svg" width="18" color = "white" /> Project Overview
 This project analyzes global fuel price trends and examines the impact of geopolitical conflict on fuel markets.  
