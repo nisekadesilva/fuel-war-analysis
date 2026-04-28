@@ -5,3 +5,5 @@ This project analyzes global fuel price trends and examines the impact of geopol
 The study focuses on how fuel prices (petrol, diesel, LPG) change before and after the 2022 global conflict period.
 
 The dataset includes weekly fuel prices across 84 countries along with economic and policy indicators.
+
+<u> Data Collection </u>
