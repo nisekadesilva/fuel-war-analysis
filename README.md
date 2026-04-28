@@ -6,4 +6,4 @@ The study focuses on how fuel prices (petrol, diesel, LPG) change before and aft
 
 The dataset includes weekly fuel prices across 84 countries along with economic and policy indicators.
 
-<u> Data Collection </u>
+<ins> Data Collection </ins>
