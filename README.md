@@ -38,8 +38,8 @@ Before analysis, I checked and cleaned the data,
 
 Instead of directly joining both datasets, I created a new feature called `war_active`.
 
-This is based on the start date of the  
-:contentReference[oaicite:0]{index=0}  
+
+This is based on the start date of the Russia-Ukraine War in 2022.
 
 - If date is before 2022 → 0  
 - If date is after 2022 → 1  
@@ -49,6 +49,24 @@ Then I created a new table:
 - `fuel_with_war`
 
 This table includes all fuel data + war indicator.
+
+### <ins> Analysis </ins>
+
+Using SQL, I analyzed:
+
+- Fuel prices before vs after war  
+- Price trends over time  
+- Differences between regions  
+- Impact based on income levels  
+- Effect of government price controls  
+
+---
+
+### 📤 6. Preparing for Visualization
+
+Finally, I exported the cleaned dataset (`fuel_with_war`) as a CSV file.
+
+This was then used in Power BI to create dashboards and visualize insights.
 
 
 
