@@ -6,7 +6,7 @@ The study focuses on how fuel prices (petrol, diesel, LPG) change before and aft
 
 The dataset includes weekly fuel prices across 84 countries along with economic and policy indicators.
 
-<ins> Data Collection </ins>
+# <ins> Data Collection </ins>
 
 First, I searched for datasets related to fuel prices and global conflicts.
 
@@ -14,5 +14,25 @@ I found two datasets,
 
   - Fuel Prices Dataset (2020–2026) – contains weekly fuel prices for different countries  
   - Conflict Dataset – contains information about global conflicts and their timelines
+
+# <ins>  Creating the Database </ins>
+I used SQLite to create a database for this project.
+
+Then I created two tables:
+
+- `fuel_prices`
+- `conflicts`
+
+After that, I imported both datasets into these tables.
+
+# <ins> Data Cleaning </ins>
+
+Before analysis, I checked and cleaned the data:
+
+- Made sure date format is correct  
+- Checked missing values  
+- Verified numeric columns like fuel prices  
+- Ensured all columns are properly structured  
+
 
 
