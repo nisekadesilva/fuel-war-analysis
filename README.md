@@ -70,8 +70,6 @@ This was then used in Power BI to create dashboards and visualize insights.
 ---
 <br>
 
-<br>
-
 ## <ins> PAGE 1 | Global Fuel Market Overview </ins>
 
 This page provides a high-level analysis of global fuel pricing trends using key performance indicators (KPIs) and time-based visualizations. It helps understand overall market behavior before analyzing the impact of geopolitical events. <br>
@@ -153,7 +151,7 @@ This highlights unequal regional exposure to global oil price volatility.
 
 The analysis highlights a strong dependency between retail fuel prices and Brent crude oil prices. Additionally, regional consumption patterns show that developed economies are more exposed to fuel price fluctuations, while developing regions exhibit more balanced and moderate usage patterns.
 
-
+<br>
 
 ## <ins> PAGE 2 | War Impact Analysis </ins>
 
@@ -217,6 +215,7 @@ The analysis demonstrates that global fuel prices increased by approximately 28%
 
 Both petrol and diesel prices respond consistently, indicating shared dependency on global crude oil supply conditions.
 
+<br>
 
 ## <ins> PAGE 3 | Regional & Economic Analysis </ins>
 
