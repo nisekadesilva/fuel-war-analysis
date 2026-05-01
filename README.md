@@ -105,7 +105,8 @@ This confirms that global crude oil price movements are a major driver of retail
 
 
 
-#### Regional Fuel Consumption Analysis <br>
+#### Regional Fuel Consumption Analysis 
+  ────── <br>
 <img width="605" height="715" alt="Screenshot 2026-05-01 141503" src="https://github.com/user-attachments/assets/e688c27c-9a99-4744-86bb-879f6fda63d4" />
 <br>
 
