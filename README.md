@@ -1,6 +1,6 @@
 # <img src="https://cdn.jsdelivr.net/npm/lucide-static/icons/fuel.svg" width="20" style="filter: invert(55%) sepia(98%) saturate(600%) hue-rotate(350deg) brightness(95%)contrast(95%);"/> Fuel Price vs War Impact Analysis (2020–2026)
 
-## <img src="https://cdn.jsdelivr.net/npm/lucide-static/icons/fuel.svg" width="18" color = "white" /> Project Overview
+### <img src="https://cdn.jsdelivr.net/npm/lucide-static/icons/fuel.svg" width="18" color = "white" /> Project Overview
 This project analyzes global fuel price trends and examines the impact of geopolitical conflict on fuel markets.  
 The study focuses on how fuel prices (petrol, diesel, LPG) change before and after the 2022 global conflict period.
 
@@ -34,7 +34,7 @@ Before analysis, I checked and cleaned the data,
 - Verified numeric columns like fuel prices  
 - Ensured all columns are properly structured  
 
-## Combining the Data
+  #### Combining the Data
 
 Instead of directly joining both datasets, I engineered a feature (war_active) to represent the impact of the 2022 conflict period.
 
@@ -149,6 +149,7 @@ This highlights unequal regional exposure to global oil price volatility.
 The analysis highlights a strong dependency between retail fuel prices and Brent crude oil prices. Additionally, regional consumption patterns show that developed economies are more exposed to fuel price fluctuations, while developing regions exhibit more balanced and moderate usage patterns.
 
 
+
 ## <ins> PAGE 2 | War Impact Analysis </ins>
 
 This page focuses on evaluating the impact of the 2022 geopolitical conflict on global fuel prices. Using comparative analysis and time-based trends, the goal is to identify how fuel markets responded before and after the conflict period.
@@ -201,8 +202,8 @@ Regional variations in fuel demand
 
 As a result, the impact of the war is better observed through average comparisons and smoothed trends rather than sharp point increases.
 
-#### Key Insight
-────── 
+#### <ins> Key Insights </ins>
+
 
 The analysis demonstrates that global fuel prices increased by approximately 28% after the 2022 conflict, confirming a strong relationship between geopolitical events and energy market behavior.
 
