@@ -1,4 +1,9 @@
-# <img src="https://cdn.simpleicons.org/gas/F97316" width="20"/> |  Fuel Price vs War Impact Analysis (2020–2026)
+# Fuel Price vs War Impact Analysis (2020–2026)
+
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black&style=flat-square)
+![DAX](https://img.shields.io/badge/DAX-F97316?logo=microsoft&logoColor=white&style=flat-square)
+![SQL](https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white&style=flat-square)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white&style=flat-square)
 
  ### <img src="https://cdn.simpleicons.org/target/F97316" width="20"/> |  <ins> Project Overview </ins>
  
