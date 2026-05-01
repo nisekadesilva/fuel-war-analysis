@@ -62,7 +62,7 @@ Using SQL, I analyzed,
 
 
 
-### <ins> Preparing for Visualization </ins>
+### <img src="https://cdn.simpleicons.org/chartdotjs/F97316" width="20"/> | <ins> Preparing for Visualization </ins>
 
 Finally, I exported the cleaned dataset (`fuel_with_war`) as a CSV file.
 
