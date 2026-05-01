@@ -108,25 +108,25 @@ This confirms that global crude oil price movements are a major driver of retail
 
 
 
-#### Regional Fuel Consumption Analysis 
+#### Regional Fuel Price Analysis 
   ────── 
   
 <img width="605" height="715" alt="Screenshot 2026-05-01 141503" src="https://github.com/user-attachments/assets/e688c27c-9a99-4744-86bb-879f6fda63d4" />
 <br>
 
-Regional analysis highlights significant differences in fuel consumption patterns across the world.
+Regional analysis highlights significant differences in fuel price patterns across the world.
 
-Consumption Patterns
-Europe records the highest consumption of both petrol and diesel, driven by strong industrial activity and transportation demand
-North America shows the lowest fuel usage, suggesting more efficient consumption patterns or alternative energy adoption
-Asia and Africa show moderate and balanced consumption levels, with similar usage of petrol and diesel
- Petrol vs Diesel Usage
+Price Patterns
+Europe records the highest price of both petrol and diesel, driven by strong industrial activity and transportation demand
+North America shows the lowest fuel price, suggesting more efficient price patterns or alternative energy adoption
+Asia and Africa show moderate and balanced price levels, with similar price of petrol and diesel
+ Petrol vs Diesel price
 
-Across all regions, petrol and diesel consumption trends remain closely aligned.
+Across all regions, petrol and diesel price trends remain closely aligned.
 
-Europe shows slightly higher petrol usage compared to diesel
-North America maintains low and balanced usage for both fuel types
-Asia and Africa show nearly equal consumption patterns
+Europe shows slightly higher petrol price compared to diesel
+North America maintains low and balanced price for both fuel types
+Asia and Africa show nearly equal price patterns
 
 This indicates that both fuel types play an equally important role in global transportation systems.
 
@@ -143,3 +143,144 @@ This highlights unequal regional exposure to global oil price volatility.
 
 The analysis highlights a strong dependency between retail fuel prices and Brent crude oil prices. Additionally, regional consumption patterns show that developed economies are more exposed to fuel price fluctuations, while developing regions exhibit more balanced and moderate usage patterns.
 
+
+## <ins> PAGE 2 | War Impact Analysis </ins>
+
+This page focuses on evaluating the impact of the 2022 geopolitical conflict on global fuel prices. Using comparative analysis and time-based trends, the goal is to identify how fuel markets responded before and after the conflict period.
+
+<img width="1150" height="794" alt="Screenshot 2026-05-01 225435" src="https://github.com/user-attachments/assets/8577fc79-aedd-4325-8c1d-e408f75a48f8" />
+
+
+#### Key Metrics (KPIs)
+────── 
+Average Petrol Price (After War): $2.47
+Average Diesel Price (After War): $2.31
+Petrol Price Change: +28.16%
+Diesel Price Change: +28.15%
+
+These KPIs clearly indicate a significant increase in fuel prices following the 2022 conflict. Both petrol and diesel exhibit nearly identical growth rates, suggesting a uniform impact across fuel types.
+
+#### Before vs After Comparison
+────── 
+
+<img width="976" height="288" alt="Screenshot 2026-05-01 225233" src="https://github.com/user-attachments/assets/447aa600-b60b-4a59-9d3d-81f66191a4ee" />
+
+A comparative analysis was conducted using a derived feature (war_active) to distinguish between pre-war and post-war periods.
+
+- Before War (war_active = 0): Lower average fuel prices
+- After War (war_active = 1): Higher average fuel prices
+
+This comparison highlights a clear upward shift in fuel prices after the onset of the conflict.
+
+#### Fuel Price Trend with War Context
+────── 
+<img width="1103" height="218" alt="Screenshot 2026-05-01 225915" src="https://github.com/user-attachments/assets/95314442-ede9-490b-8b96-2521985eb69e" />
+
+
+Time-series analysis provides additional context to the observed price changes.
+
+- Fuel prices begin to rise noticeably around Q2 2022 (April)
+- A peak period follows during mid-to-late 2022
+- Prices show a decline around early 2023 (January), indicating partial market stabilization
+
+Although the increase is gradual rather than a sharp spike, the trend confirms a sustained rise in prices following the conflict period.
+
+#### Trend Interpretation
+────── 
+
+Unlike sudden spikes, global fuel markets often respond gradually due to,
+
+Supply chain adjustments
+Policy interventions (subsidies, price controls)
+Regional variations in fuel demand
+
+As a result, the impact of the war is better observed through average comparisons and smoothed trends rather than sharp point increases.
+
+#### Key Insight
+────── 
+
+The analysis demonstrates that global fuel prices increased by approximately 28% after the 2022 conflict, confirming a strong relationship between geopolitical events and energy market behavior.
+
+Both petrol and diesel prices respond consistently, indicating shared dependency on global crude oil supply conditions.
+
+
+## <ins> PAGE 3 | Regional & Economic Analysis </ins>
+
+This page explores the underlying economic and policy factors that influence global fuel prices. It focuses on how income levels, government subsidies, and country-level differences impact petrol and diesel pricing.
+
+<img width="1160" height="788" alt="Screenshot 2026-05-01 224344" src="https://github.com/user-attachments/assets/4e969eb1-d40e-40c9-ab73-ee10c9267c4b" />
+
+
+#### Income Level Impact
+────── 
+
+<img width="668" height="253" alt="Screenshot 2026-05-01 230649" src="https://github.com/user-attachments/assets/70713460-99c3-4d7e-a5fa-a3aa3642c7fd" />
+
+
+Fuel prices vary significantly based on a country’s economic status.
+
+High-income countries show higher average fuel prices
+ - Petrol: ~$3.55
+ - Diesel: ~$3.55 (approx.)
+
+Low-income countries have lower fuel prices
+ - Petrol: ~$1.39
+ - Diesel: ~$1.28
+
+This indicates that wealthier economies tend to have higher fuel prices, likely due to higher taxes, stronger currencies, and greater purchasing power.
+
+#### Government Subsidy Impact
+────── 
+
+Government intervention plays a major role in controlling fuel prices.
+
+Low subsidy countries
+Petrol: ~$3.45
+Diesel: ~$3.24
+Very high subsidy countries
+Petrol: ~$0.15
+Diesel: ~$0.13
+
+This shows a dramatic reduction in fuel prices where strong subsidies are applied, highlighting how policy decisions can directly influence consumer costs.
+
+#### Country-Level Analysis
+────── 
+
+The analysis identifies countries with the highest average fuel prices.
+
+🚗 Highest Petrol Price Countries:
+Hong Kong
+Norway
+Netherlands
+Ireland
+Denmark
+🚛 Highest Diesel Price Countries:
+Hong Kong
+Ireland
+Norway
+Netherlands
+Denmark
+
+These countries are primarily high-income economies, suggesting a strong relationship between economic status and fuel pricing.
+
+#### Income vs Price Relationship
+────── 
+
+Further analysis shows that countries with higher income levels (such as Australia, Ireland, and Denmark) also tend to have higher fuel prices.
+
+This suggests that fuel pricing is influenced not only by supply factors but also by economic capacity and taxation structures.
+
+#### Insight on Price Drivers
+────── 
+
+The analysis confirms that fuel prices are influenced by multiple factors:
+
+- Economic strength (income level)
+- Government policies (subsidies)
+- Regional and country-level dynamics
+
+Among these, government subsidies have the strongest direct impact on reducing fuel prices.
+
+🔗 Key Insight
+
+Fuel prices are not determined solely by global oil markets. Instead, they are significantly shaped by national economic conditions and policy decisions, with subsidies and income levels playing a critical role in price variation across countries.
