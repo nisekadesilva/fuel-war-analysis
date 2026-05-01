@@ -74,6 +74,7 @@ This page provides a high-level analysis of global fuel pricing trends using key
 <img width="1154" height="791" alt="Screenshot 2026-05-01 134630" src="https://github.com/user-attachments/assets/677790b1-29dd-4ca5-a40c-3177a4c6313b" />
 
 #### Key Metrics (KPIs)
+    ────── 
  - Average Petrol Price: $2.28
  - Average Diesel Price: $2.13
  - Maximum Brent Crude Price: $130
