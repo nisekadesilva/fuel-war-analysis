@@ -109,7 +109,8 @@ This confirms that global crude oil price movements are a major driver of retail
 
 
 #### Regional Fuel Consumption Analysis 
-  ────── <br>
+  ────── 
+  
 <img width="605" height="715" alt="Screenshot 2026-05-01 141503" src="https://github.com/user-attachments/assets/e688c27c-9a99-4744-86bb-879f6fda63d4" />
 <br>
 
@@ -130,6 +131,7 @@ Asia and Africa show nearly equal consumption patterns
 This indicates that both fuel types play an equally important role in global transportation systems.
 
 #### Brent Crude Sensitivity by Region
+────── 
 Europe shows the highest sensitivity to Brent crude price fluctuations
 Asia and Africa show moderate sensitivity
 Oceania shows the lowest impact due to smaller market scale and lower consumption
