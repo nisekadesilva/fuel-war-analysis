@@ -121,6 +121,7 @@ This confirms that global crude oil price movements are a major driver of retail
 Regional analysis highlights significant differences in fuel price patterns across the world.
 
 Price Patterns
+
 Europe records the highest price of both petrol and diesel, driven by strong industrial activity and transportation demand
 North America shows the lowest fuel price, suggesting more efficient price patterns or alternative energy adoption
 Asia and Africa show moderate and balanced price levels, with similar price of petrol and diesel
@@ -256,12 +257,14 @@ This shows a dramatic reduction in fuel prices where strong subsidies are applie
 
 The analysis identifies countries with the highest average fuel prices.
 
-🚗 Highest Petrol Price Countries:
-Hong Kong
-Norway
-Netherlands
-Ireland
-Denmark
+ Highest Petrol Price Countries:
+ 
+ - Hong Kong
+ - Norway
+ - Netherlands
+ - Ireland
+ - Denmark
+   
 🚛 Highest Diesel Price Countries:
 Hong Kong
 Ireland
