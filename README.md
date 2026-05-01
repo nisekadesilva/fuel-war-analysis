@@ -1,6 +1,6 @@
 # <img src="https://cdn.jsdelivr.net/npm/lucide-static/icons/fuel.svg" width="20" style="filter: invert(55%) sepia(98%) saturate(600%) hue-rotate(350deg) brightness(95%)contrast(95%);"/> Fuel Price vs War Impact Analysis (2020–2026)
 
-### <img src="https://cdn.jsdelivr.net/npm/lucide-static/icons/fuel.svg" width="18" color = "white" /> Project Overview
+### <img src="https://cdn.jsdelivr.net/npm/lucide-static/icons/fuel.svg" width="18" color = "white" /> <ins> Project Overview </ins>
 This project analyzes global fuel price trends and examines the impact of geopolitical conflict on fuel markets.  
 The study focuses on how fuel prices (petrol, diesel, LPG) change before and after the 2022 global conflict period.
 
@@ -34,7 +34,7 @@ Before analysis, I checked and cleaned the data,
 - Verified numeric columns like fuel prices  
 - Ensured all columns are properly structured  
 
-  #### Combining the Data
+  #### <ins> Combining the Data </ins>
 
 Instead of directly joining both datasets, I engineered a feature (war_active) to represent the impact of the 2022 conflict period.
 
@@ -66,8 +66,11 @@ Using SQL, I analyzed,
 Finally, I exported the cleaned dataset (`fuel_with_war`) as a CSV file.
 
 This was then used in Power BI to create dashboards and visualize insights.
-<br>
+
 ---
+<br>
+
+<br>
 
 ## <ins> PAGE 1 | Global Fuel Market Overview </ins>
 
@@ -122,7 +125,7 @@ This confirms that global crude oil price movements are a major driver of retail
 
 Regional analysis highlights significant differences in fuel price patterns across the world.
 
-Price Patterns
+- Price Patterns -
 
 Europe records the highest price of both petrol and diesel, driven by strong industrial activity and transportation demand
 North America shows the lowest fuel price, suggesting more efficient price patterns or alternative energy adoption
@@ -161,10 +164,11 @@ This page focuses on evaluating the impact of the 2022 geopolitical conflict on 
 
 #### Key Metrics (KPIs)
 ────── 
-Average Petrol Price (After War): $2.47
-Average Diesel Price (After War): $2.31
-Petrol Price Change: +28.16%
-Diesel Price Change: +28.15%
+
+- Average Petrol Price (After War): $2.47
+- Average Diesel Price (After War): $2.31
+- Petrol Price Change: +28.16%
+- Diesel Price Change: +28.15%
 
 These KPIs clearly indicate a significant increase in fuel prices following the 2022 conflict. Both petrol and diesel exhibit nearly identical growth rates, suggesting a uniform impact across fuel types.
 
