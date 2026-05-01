@@ -70,9 +70,10 @@ This was then used in Power BI to create dashboards and visualize insights.
 ## <ins> PAGE 1 | Global Fuel Market Overview </ins>
 
 This page provides a high-level analysis of global fuel pricing trends using key performance indicators (KPIs) and time-based visualizations. It helps understand overall market behavior before analyzing the impact of geopolitical events. <br>
+
 <img width="1154" height="791" alt="Screenshot 2026-05-01 134630" src="https://github.com/user-attachments/assets/677790b1-29dd-4ca5-a40c-3177a4c6313b" />
 
-# Key Metrics (KPIs)
+#### Key Metrics (KPIs)
  - Average Petrol Price: $2.28
  - Average Diesel Price: $2.13
  - Maximum Brent Crude Price: $130
@@ -80,7 +81,7 @@ This page provides a high-level analysis of global fuel pricing trends using key
 These KPIs show that petrol prices are slightly higher than diesel globally, reflecting differences in refining costs, taxation, and distribution. Brent crude oil demonstrates significantly higher volatility compared to retail fuel prices, indicating its role as a global benchmark for energy markets.
 
 
-# Fuel Price Trends Over Time
+#### Fuel Price Trends Over Time
 
 <img width="512" height="553" alt="Screenshot 2026-05-01 141220" src="https://github.com/user-attachments/assets/01c3614d-eb29-40db-a255-2793b50ced51" />
 <br>
@@ -92,7 +93,7 @@ In 2023, prices declined slightly but remained above pre-2020 levels
 
 Overall, petrol and diesel trends demonstrate strong correlation, indicating shared global market drivers.
 
-# Brent Crude Oil Trends
+#### Brent Crude Oil Trends
 
 Brent crude oil prices show higher volatility compared to retail fuel prices.
 
@@ -104,7 +105,7 @@ This confirms that global crude oil price movements are a major driver of retail
 
 
 
-# Regional Fuel Consumption Analysis <br>
+#### Regional Fuel Consumption Analysis <br>
 <img width="605" height="715" alt="Screenshot 2026-05-01 141503" src="https://github.com/user-attachments/assets/e688c27c-9a99-4744-86bb-879f6fda63d4" />
 <br>
 
@@ -124,14 +125,14 @@ Asia and Africa show nearly equal consumption patterns
 
 This indicates that both fuel types play an equally important role in global transportation systems.
 
-# Brent Crude Sensitivity by Region
+#### Brent Crude Sensitivity by Region
 Europe shows the highest sensitivity to Brent crude price fluctuations
 Asia and Africa show moderate sensitivity
 Oceania shows the lowest impact due to smaller market scale and lower consumption
 
 This highlights unequal regional exposure to global oil price volatility.
 
-# <ins> Key Insight </ins>
+#### <ins> Key Insight </ins>
 
 The analysis highlights a strong dependency between retail fuel prices and Brent crude oil prices. Additionally, regional consumption patterns show that developed economies are more exposed to fuel price fluctuations, while developing regions exhibit more balanced and moderate usage patterns.
 
