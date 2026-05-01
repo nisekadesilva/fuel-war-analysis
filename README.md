@@ -59,13 +59,15 @@ Using SQL, I analyzed,
 - Impact based on income levels  
 - Effect of government price controls  
 
----
+
 
 ### <ins> Preparing for Visualization </ins>
 
 Finally, I exported the cleaned dataset (`fuel_with_war`) as a CSV file.
 
 This was then used in Power BI to create dashboards and visualize insights.
+<br>
+---
 
 ## <ins> PAGE 1 | Global Fuel Market Overview </ins>
 
@@ -169,7 +171,7 @@ These KPIs clearly indicate a significant increase in fuel prices following the 
 #### Before vs After Comparison
 ────── 
 
-<img width="976" height="288" alt="Screenshot 2026-05-01 225233" src="https://github.com/user-attachments/assets/447aa600-b60b-4a59-9d3d-81f66191a4ee" />
+<img width="976" height="288" alt="Screenshot 2026-05-01 225233" src="https://github.com/user-attachments/assets/447aa600-b60b-4a59-9d3d-81f66191a4ee" /><br>
 
 A comparative analysis was conducted using a derived feature (war_active) to distinguish between pre-war and post-war periods.
 
@@ -265,13 +267,14 @@ The analysis identifies countries with the highest average fuel prices.
  - Netherlands
  - Ireland
  - Denmark
-   
-🚛 Highest Diesel Price Countries:
-Hong Kong
-Ireland
-Norway
-Netherlands
-Denmark
+
+ Highest Diesel Price Countries:
+ 
+ - Hong Kong
+ - Ireland
+ - Norway
+ - Netherlands
+ - Denmark
 
 These countries are primarily high-income economies, suggesting a strong relationship between economic status and fuel pricing.
 
@@ -293,7 +296,7 @@ The analysis confirms that fuel prices are influenced by multiple factors:
 
 Among these, government subsidies have the strongest direct impact on reducing fuel prices.
 
-#### Key Insight
-────── 
+#### <ins> Key Insight </ins>
+
 
 Fuel prices are not determined solely by global oil markets. Instead, they are significantly shaped by national economic conditions and policy decisions, with subsidies and income levels playing a critical role in price variation across countries.
