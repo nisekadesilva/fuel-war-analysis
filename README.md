@@ -132,6 +132,7 @@ This indicates that both fuel types play an equally important role in global tra
 
 #### Brent Crude Sensitivity by Region
 ────── 
+
 Europe shows the highest sensitivity to Brent crude price fluctuations
 Asia and Africa show moderate sensitivity
 Oceania shows the lowest impact due to smaller market scale and lower consumption
