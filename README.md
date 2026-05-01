@@ -71,7 +71,8 @@ This was then used in Power BI to create dashboards and visualize insights.
 
 This page provides a high-level analysis of global fuel pricing trends using key performance indicators (KPIs) and time-based visualizations. It helps understand overall market behavior before analyzing the impact of geopolitical events. <br>
 
-<img width="1154" height="791" alt="Screenshot 2026-05-01 134630" src="https://github.com/user-attachments/assets/677790b1-29dd-4ca5-a40c-3177a4c6313b" />
+<img width="1156" height="793" alt="Screenshot 2026-05-01 231107" src="https://github.com/user-attachments/assets/f50092dc-9a3b-4265-9440-27da6d7fd4e8" />
+
 
 #### Key Metrics (KPIs)
   ────── 
@@ -85,7 +86,8 @@ These KPIs show that petrol prices are slightly higher than diesel globally, ref
 #### Fuel Price Trends Over Time
 ────── 
 
-<img width="512" height="553" alt="Screenshot 2026-05-01 141220" src="https://github.com/user-attachments/assets/01c3614d-eb29-40db-a255-2793b50ced51" />
+<img width="451" height="465" alt="Screenshot 2026-05-01 231119" src="https://github.com/user-attachments/assets/b45e1aa6-07f6-42f5-aa92-55351d671ef0" />
+
 <br>
 The time-series analysis shows that petrol and diesel prices follow closely aligned patterns across the study period.
 
@@ -110,8 +112,10 @@ This confirms that global crude oil price movements are a major driver of retail
 
 #### Regional Fuel Price Analysis 
   ────── 
-  
-<img width="605" height="715" alt="Screenshot 2026-05-01 141503" src="https://github.com/user-attachments/assets/e688c27c-9a99-4744-86bb-879f6fda63d4" />
+
+  <img width="570" height="628" alt="Screenshot 2026-05-01 231128" src="https://github.com/user-attachments/assets/1b554876-06dc-4274-87f4-74430ee8a294" />
+
+
 <br>
 
 Regional analysis highlights significant differences in fuel price patterns across the world.
@@ -232,14 +236,18 @@ This indicates that wealthier economies tend to have higher fuel prices, likely 
 #### Government Subsidy Impact
 ────── 
 
+<img width="727" height="297" alt="Screenshot 2026-05-01 230940" src="https://github.com/user-attachments/assets/3c31dc4b-c418-40cd-bf81-cbfe53f6d1ff" />
+
+
 Government intervention plays a major role in controlling fuel prices.
 
 Low subsidy countries
-Petrol: ~$3.45
-Diesel: ~$3.24
+ - Petrol: ~$3.45
+ - Diesel: ~$3.24
+   
 Very high subsidy countries
-Petrol: ~$0.15
-Diesel: ~$0.13
+ - Petrol: ~$0.15
+ - Diesel: ~$0.13
 
 This shows a dramatic reduction in fuel prices where strong subsidies are applied, highlighting how policy decisions can directly influence consumer costs.
 
@@ -281,6 +289,7 @@ The analysis confirms that fuel prices are influenced by multiple factors:
 
 Among these, government subsidies have the strongest direct impact on reducing fuel prices.
 
-🔗 Key Insight
+#### Key Insight
+────── 
 
 Fuel prices are not determined solely by global oil markets. Instead, they are significantly shaped by national economic conditions and policy decisions, with subsidies and income levels playing a critical role in price variation across countries.
