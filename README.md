@@ -74,7 +74,7 @@ This page provides a high-level analysis of global fuel pricing trends using key
 <img width="1154" height="791" alt="Screenshot 2026-05-01 134630" src="https://github.com/user-attachments/assets/677790b1-29dd-4ca5-a40c-3177a4c6313b" />
 
 #### Key Metrics (KPIs)
-    ────── 
+  ────── 
  - Average Petrol Price: $2.28
  - Average Diesel Price: $2.13
  - Maximum Brent Crude Price: $130
@@ -83,6 +83,7 @@ These KPIs show that petrol prices are slightly higher than diesel globally, ref
 
 
 #### Fuel Price Trends Over Time
+────── 
 
 <img width="512" height="553" alt="Screenshot 2026-05-01 141220" src="https://github.com/user-attachments/assets/01c3614d-eb29-40db-a255-2793b50ced51" />
 <br>
@@ -95,6 +96,7 @@ In 2023, prices declined slightly but remained above pre-2020 levels
 Overall, petrol and diesel trends demonstrate strong correlation, indicating shared global market drivers.
 
 #### Brent Crude Oil Trends
+────── 
 
 Brent crude oil prices show higher volatility compared to retail fuel prices.
 
