@@ -1,13 +1,13 @@
 # <img src="https://cdn.jsdelivr.net/npm/lucide-static/icons/fuel.svg" width="20" style="filter: invert(55%) sepia(98%) saturate(600%) hue-rotate(350deg) brightness(95%)contrast(95%);"/> Fuel Price vs War Impact Analysis (2020–2026)
 
- ### <ins> <img src="https://cdn.simpleicons.org/target/F97316" width="20"/> | Project Overview </ins>
+ ### <img src="https://cdn.simpleicons.org/target/F97316" width="20"/> |  <ins> Project Overview </ins>
  
 This project analyzes global fuel price trends and examines the impact of geopolitical conflict on fuel markets.  
 The study focuses on how fuel prices (petrol, diesel, LPG) change before and after the 2022 global conflict period.
 
 The dataset includes weekly fuel prices across 84 countries along with economic and policy indicators.
 
-### <ins> Data Collection </ins>
+### <img src="https://cdn.simpleicons.org/databricks/F97316" width="20"/> | <ins> Data Collection </ins>
 
 First, I searched for datasets related to fuel prices and global conflicts.
 
@@ -26,7 +26,7 @@ I used SQLite to create a database for this project.
 
 After that, I imported both datasets into these tables.
 
-### <ins> Data Cleaning </ins>
+### <img src="https://cdn.simpleicons.org/openrefine/F97316" width="20"/> | <ins> Data Cleaning </ins>
 
 Before analysis, I checked and cleaned the data,
 
