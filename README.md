@@ -49,7 +49,7 @@ Finally, I created a new table,
 
 This table includes all fuel data + war indicator.
 
-### <ins> Analysis </ins>
+### <img src="https://cdn.simpleicons.org/googleanalytics/F97316" width="20"/>  | <ins> Analysis </ins>
 
 This approach allowed me to transform raw data into meaningful insights using SQL-based aggregation and filtering.
 Using SQL, I analyzed,
