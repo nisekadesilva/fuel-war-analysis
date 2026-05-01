@@ -16,7 +16,7 @@ I found two datasets,
   - Fuel Prices Dataset (2020–2026) – contains weekly fuel prices for different countries  
   - Conflict Dataset – contains information about global conflicts and their timelines
 
-### <ins>  Creating the Database </ins>
+### <img src="https://cdn.simpleicons.org/sqlite/F97316" width="20"/> | <ins>  Creating the Database </ins>
 I used SQLite to create a database for this project.
 
  I then created two tables,
@@ -26,7 +26,7 @@ I used SQLite to create a database for this project.
 
 After that, I imported both datasets into these tables.
 
-### <img src="https://cdn.simpleicons.org/openrefine/F97316" width="20"/> | <ins> Data Cleaning </ins>
+### <img src="https://cdn.simpleicons.org/datacamp/F97316" width="20"/> | <ins> Data Cleaning </ins>
 
 Before analysis, I checked and cleaned the data,
 
