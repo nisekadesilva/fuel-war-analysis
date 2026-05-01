@@ -18,7 +18,7 @@ I found two datasets,
 ### <ins>  Creating the Database </ins>
 I used SQLite to create a database for this project.
 
-Then I created two tables,
+ I then created two tables,
 
 - `fuel_prices`
 - `conflicts`
@@ -36,15 +36,13 @@ Before analysis, I checked and cleaned the data,
 
 ### Combining the Data
 
-Instead of directly joining both datasets, I created a new feature called `war_active`.
+Instead of directly joining both datasets, I engineered a feature (war_active) to represent the impact of the 2022 conflict period.
 
-
-This is based on the start date of the Russia-Ukraine War in 2022.
 
 - If date is before 2022 → 0  
 - If date is after 2022 → 1  
 
-Then I created a new table:
+Finally, I created a new table,
 
 - `fuel_with_war`
 
@@ -52,7 +50,8 @@ This table includes all fuel data + war indicator.
 
 ### <ins> Analysis </ins>
 
-Using SQL, I analyzed:
+This approach allowed me to transform raw data into meaningful insights using SQL-based aggregation and filtering.
+Using SQL, I analyzed,
 
 - Fuel prices before vs after war  
 - Price trends over time  
@@ -62,11 +61,24 @@ Using SQL, I analyzed:
 
 ---
 
-### 📤 6. Preparing for Visualization
+### <ins> Preparing for Visualization </ins>
 
 Finally, I exported the cleaned dataset (`fuel_with_war`) as a CSV file.
 
 This was then used in Power BI to create dashboards and visualize insights.
+
+## <ins> PAGE 1 | Global Fuel Market Overview </ins>
+
+This page provides a high-level analysis of global fuel pricing trends using key performance indicators (KPIs) and time-based visualizations. It helps understand overall market behavior before analyzing the impact of geopolitical events.
+<img width="1154" height="791" alt="Screenshot 2026-05-01 134630" src="https://github.com/user-attachments/assets/677790b1-29dd-4ca5-a40c-3177a4c6313b" />
+
+Key Metrics (KPIs)
+ - Average Petrol Price: $2.28
+ - Average Diesel Price: $2.13
+ - Maximum Brent Crude Price: $130
+
+These KPIs show that petrol prices are slightly higher than diesel globally, reflecting differences in refining costs, taxation, and distribution. Brent crude oil demonstrates significantly higher volatility compared to retail fuel prices, indicating its role as a global benchmark for energy markets.
+
 
 
 
