@@ -177,6 +177,7 @@ These KPIs clearly indicate a significant increase in fuel prices following the 
 
 <img width="976" height="288" alt="Screenshot 2026-05-01 225233" src="https://github.com/user-attachments/assets/447aa600-b60b-4a59-9d3d-81f66191a4ee" /><br>
 
+
 A comparative analysis was conducted using a derived feature (war_active) to distinguish between pre-war and post-war periods.
 
 - Before War (war_active = 0): Lower average fuel prices
@@ -188,6 +189,7 @@ This comparison highlights a clear upward shift in fuel prices after the onset o
 ────── 
 <img width="1103" height="218" alt="Screenshot 2026-05-01 225915" src="https://github.com/user-attachments/assets/95314442-ede9-490b-8b96-2521985eb69e" />
 
+<br>
 
 Time-series analysis provides additional context to the observed price changes.
 
@@ -222,6 +224,7 @@ This page explores the underlying economic and policy factors that influence glo
 
 <img width="1160" height="788" alt="Screenshot 2026-05-01 224344" src="https://github.com/user-attachments/assets/4e969eb1-d40e-40c9-ab73-ee10c9267c4b" />
 
+<br>
 
 #### Income Level Impact
 ────── 
@@ -246,6 +249,7 @@ This indicates that wealthier economies tend to have higher fuel prices, likely 
 
 <img width="727" height="297" alt="Screenshot 2026-05-01 230940" src="https://github.com/user-attachments/assets/3c31dc4b-c418-40cd-bf81-cbfe53f6d1ff" />
 
+<br>
 
 Government intervention plays a major role in controlling fuel prices.
 
